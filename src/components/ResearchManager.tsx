@@ -54,7 +54,7 @@ const researchData: ResearchItem[] = [
     tags: ['Radio Frequency Inteference Mitigation', 'Digital Signal Processing', 'Spectral Kurtosis', 'FPGA', 'Verilog'],
     link: 'https://aas242-aas.ipostersessions.com/?s=6B-79-91-79-08-94-81-80-6A-8B-03-69-D0-84-A1-F1',
     buttonText: 'View the Full iPoster!',
-    characterImg: '/therta.png',
+    characterImg: '/Therta.png',
   },
 ];
 
