@@ -66,7 +66,7 @@ export default function ALEPage() {
         <section className="space-y-4">
           <div className="w-full rounded-2xl overflow-hidden bg-[#132235] shadow-2xl border border-egyptian-teal/30">
             <Image 
-              src="/ALE_cycle.png" 
+              src="/ALE_Cycle.png" 
               alt="Atomic Layer Etching Process Mechanism" 
               width={1200}
               height={675}
@@ -76,7 +76,9 @@ export default function ALEPage() {
           </div>
           <p className="text-sm md:text-base text-slate-300 leading-relaxed italic text-center max-w-3xl mx-auto px-4">
             <strong className="text-egyptian-teal not-italic">Atomic Layer Etching Process Mechanism:</strong> Sequential cyclic schematic outlining the alternating surface oxidation and physical argon desorption steps required to achieve sub-nanometer etching precision on single-crystal diamond substrates.
+             (Credit: D. D. Tran et al., arXiv preprint arXiv:2603.21159 (2026))
           </p>
+          
         </section>
 
         {/* Narrative Body in Pure Paragraph Form */}
